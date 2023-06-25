@@ -1,4 +1,4 @@
-## LiGAN configuration settings
+## PhyMolCVAE configuration settings
 
 The training and generation scripts are controlled by configuration files. The configuration settings are documented below.
 
